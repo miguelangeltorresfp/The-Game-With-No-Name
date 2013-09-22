@@ -1,0 +1,22 @@
+using UnityEngine;
+using System.Collections;
+
+public class misilClass : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		Invoke("destruirMisil", 10);
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
+	
+	void destruirMisil()
+	{
+		Destroy(gameObject);
+	}
+	
+	
+}

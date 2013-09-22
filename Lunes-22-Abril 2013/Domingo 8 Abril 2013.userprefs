@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\playerControllerClass.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\playerControllerClass.cs" Line="601" Column="4" />
+      <File FileName="Assets\Resources\Scripts\misilNormalClass.cs" Line="4" Column="25" />
+      <File FileName="Assets\Resources\Scripts\balaClass.cs" Line="27" Column="1" />
+      <File FileName="Assets\Resources\Scripts\healthClass.cs" Line="34" Column="3" />
+      <File FileName="Assets\Resources\Scripts\LookAtMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\ametralladora.cs" Line="4" Column="27" />
+      <File FileName="Assets\Resources\Scripts\misilInteligenteClass.cs" Line="4" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

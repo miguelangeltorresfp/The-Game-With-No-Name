@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\characterControllerClass.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\enemigoClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\misilTelediridigo.cs" Line="4" Column="31" />
+      <File FileName="Assets\Resources\Scripts\healthClass.cs" Line="8" Column="1" />
+      <File FileName="Assets\Resources\Scripts\SpawnPointClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\playerControllerClass.cs" Line="347" Column="7" />
+      <File FileName="Assets\Resources\Scripts\misilClass.cs" Line="6" Column="1" />
+      <File FileName="Assets\Resources\Scripts\misilTeledirigidoClass.cs" Line="44" Column="2" />
+      <File FileName="Assets\Resources\Scripts\proyectilClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\balaClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\characterControllerClass.cs" Line="43" Column="3" />
+      <File FileName="Assets\Resources\Scripts\DisplayClass.cs" Line="40" Column="1" />
+      <File FileName="Assets\Resources\Scripts\cameraControllerClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

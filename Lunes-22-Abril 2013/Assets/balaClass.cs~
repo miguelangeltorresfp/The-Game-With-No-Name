@@ -1,0 +1,34 @@
+using UnityEngine;
+using System.Collections;
+
+public class balaClass : MonoBehaviour 
+{
+	/// <summary>
+	/// Tiempo de vida del proyectil
+	/// </summary>
+	public float lifeTime;
+	
+	// Use this for initialization
+	void Start () {
+		Invoke("destruirBala", lifeTime);
+	}
+	
+	// Update is called once per frame
+	void Update () 
+	{
+	
+	}
+	
+	void destruirBala()
+	{
+		Destroy(gameObject);
+	}
+
+	void OnCollisionEnter(Collision collision) 
+	{
+		Destroy(collision.gameObject);
+		Destroy(gameObject);
+    }	
+	
+	
+}
